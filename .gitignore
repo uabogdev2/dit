@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+/backend/vendor
+/backend/node_modules
+/socket-server/node_modules
+.env
+*.lock
